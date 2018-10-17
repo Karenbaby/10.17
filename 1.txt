@@ -1,0 +1,5 @@
+01 cyb China Maths English 7
+02 cjt China English Computer 6
+03 phn Maths English NULL 5
+04 yxx Music Maths Physon 5
+05 lkc China Physon Music 5

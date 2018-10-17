@@ -1,0 +1,5 @@
+student add :04 yxx China Maths Physon 6
+student add :05 lkc China Physon Music 5
+student revise :04 yxx China Maths Physon 6
+student find :05 lkc China Physon Music 5
+student find :04 yxx Music Maths Physon 5
